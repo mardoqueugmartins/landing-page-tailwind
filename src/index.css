@@ -18,4 +18,10 @@
 
 @theme {
   --font-graphik: "Graphik", sans-serif;
+
+  --color-red: #fc1906;
+  --color-dark-background: #020202;
+  --color-dark-background-2: #111111;
+  --color-dark-text: #1f1f1f;
+  --color-white: #fff;
 }
